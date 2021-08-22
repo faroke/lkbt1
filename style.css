@@ -1,0 +1,24 @@
+.container h1 {
+  color: grey;
+}
+
+.fit-picture {
+  width: 70%;
+  margin-bottom: 20px;
+}
+
+.btn-primary {
+  margin-top: 20px;
+}
+
+.exercice {
+  margin-top: 100px;
+}
+
+.text-output {
+  margin-top: 30px;
+  font-weight: bold;
+}
+.red{
+  color: red;
+}
